@@ -1,6 +1,6 @@
 ![logo](https://camo.githubusercontent.com/d7ac69e17d0d43eddee57a5dd75a2ea6be898887687c3d5f5fa748668d3a70ae/68747470733a2f2f692e696d6775722e636f6d2f5245514b3056552e6a7067)
 
-<h1 align="center">Hello, I'm Andres Zambrano 👋</h1>
+<h1 align="center">Hello, I'm Andrés Zambrano 👋</h1>
 <h3 align="center">A passionate explorer of Data Science and Machine Learning</h3>
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/AynUwd5uKhIevEWx54/giphy.gif">
