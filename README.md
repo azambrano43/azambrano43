@@ -3,7 +3,7 @@
 <h1 align="center">Hello, I'm Andrés Zambrano 👋</h1>
 <h3 align="center">A passionate explorer of Data Science and Machine Learning</h3>
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/AynUwd5uKhIevEWx54/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/AynUwd5uKhIevEWx54/giphy.gif">
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azambrano43&label=Profile%20views&color=0e75b6&style=flat"
         alt="azambrano43" /> </p>
