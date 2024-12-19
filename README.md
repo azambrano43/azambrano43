@@ -9,7 +9,7 @@
         alt="azambrano43" /> </p>
 
 - 🌱 I’m currently learning **Python, SQL, Data Science Techniques** and **Machine Learning**.
-- 📜 I have certifications in **Data Scientist Associate** and **Data Engineer Associate** from DataCamp.
+- 📜 I hold certifications from DataCamp, including **Data Scientist Associate**, **Data Engineer Associate**, **Python Data Associate**, and **AI Fundamentals**.
 - 💬 Ask me about **Data Cleaning, Data Preprocessing, Machine Learning, Python Scripting, SQL Queries, and Data Visualization**.
 - 📫 How to reach me: **andres.a.zambrano.a@gmail.com**
 
@@ -20,6 +20,12 @@
     </li>
     <li>
         <a href="https://www.datacamp.com/certificate/DEA0015972306453" target="_blank">Data Engineer Associate</a>
+    </li>
+    <li>
+        <a href="https://www.datacamp.com/certificate/PDA0018769738380" target="_blank">Python Data Associate</a>
+    </li>
+    <li>
+        <a href="https://www.datacamp.com/skill-verification/AIF0025492965403" target="_blank">AI Fundamentals</a>
     </li>
 </ul>
 
